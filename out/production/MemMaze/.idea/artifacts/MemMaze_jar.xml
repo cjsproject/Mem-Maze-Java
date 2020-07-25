@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MemMaze:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MemMaze_jar</output-path>
+    <root id="archive" name="MemMaze.jar">
+      <element id="module-output" name="MemMaze" />
+    </root>
+  </artifact>
+</component>
